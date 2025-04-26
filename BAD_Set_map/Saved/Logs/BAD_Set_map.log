@@ -1458,3 +1458,4 @@ LogConfig: Set CVar [[r.Nanite.Streaming.AsyncCompute:0	; Temporary workaround f
 [2025.04.26-18.59.06:829][321]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 658.464783
 [2025.04.26-18.59.07:833][324]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.04.26-18.59.07:833][324]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 659.142578, Update Interval: 320.277710
+[2025.04.26-19.01.33:228][760]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
