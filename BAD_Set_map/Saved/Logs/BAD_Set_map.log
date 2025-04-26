@@ -1448,3 +1448,4 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.26-15.21.58:542][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
 [2025.04.26-15.21.58:582][368]LogPlayLevel: Display: Destroying online subsystem :Context_1
 [2025.04.26-15.21.59:139][399]Cmd: SELECT NONE
+[2025.04.26-15.22.45:275][873]LogDerivedDataCache: C:/Users/Dante/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
