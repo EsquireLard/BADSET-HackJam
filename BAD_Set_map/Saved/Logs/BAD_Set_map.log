@@ -1392,3 +1392,4 @@ LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
 [2025.04.26-15.16.59:529][482]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.04.26-15.16.59:529][482]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.04.26-15.16.59:529][482]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.04.26-15.17.34:325][972]LogDerivedDataCache: C:/Users/benr4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
