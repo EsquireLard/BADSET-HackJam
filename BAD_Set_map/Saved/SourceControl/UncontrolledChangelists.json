@@ -5,7 +5,26 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/UnrealProject/Hack+Jam BAD.Set/BADSET-HackJam/BAD_Set_map/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/TY/95OJIDO2SR563OJEFGOHF4.uasset"
+				"C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
+				"C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/BD/6C9BW4Z6VI8JDS0W5XIGMB.uasset",
+				"C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/FPWeapon/Materials/BaseMaterial.uasset",
+				"C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
+				"C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor.uasset",
+				"C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor_Mat.uasset",
+				"C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Height.uasset",
+				"C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Height_Mat.uasset",
+				"C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Metallic.uasset",
+				"C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Metallic_Mat.uasset",
+				"C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Normal.uasset",
+				"C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Normal_Mat.uasset",
+				"C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Roughness.uasset",
+				"C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Roughness_Mat.uasset",
+				"C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_BaseColor.uasset",
+				"C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Height.uasset",
+				"C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Metallic.uasset",
+				"C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Normal.uasset",
+				"C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Roughness.uasset",
+				"C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/uploads_files_2859313_Mars+Space+Station.uasset"
 			]
 		}
 	]

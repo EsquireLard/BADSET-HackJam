@@ -1375,3 +1375,1047 @@ LogConfig: Set CVar [[r.Nanite.Streaming.AsyncCompute:0	; Temporary workaround f
 [2025.04.26-15.41.20:441][ 36]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
 [2025.04.26-15.41.20:716][ 47]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
 [2025.04.26-15.42.51:401][809]LogDerivedDataCache: C:/Users/Dante/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.26-15.44.19:814][176]LogSlate: Took 0.015048 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.26-15.44.28:005][632]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.26-15.44.28:016][632]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.26-15.44.28:048][633]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.26-15.44.32:945][924]LogContentBrowser: Attempting asset rename: NewFolder -> Models
+[2025.04.26-15.44.32:946][924]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.26-15.44.57:877][103]LogStreaming: Display: FlushAsyncLoading(412): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.26-15.44.57:983][103]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Dante/Downloads/uploads_files_2859313_Mars+Space+Station_ready.fbx]
+[2025.04.26-15.45.03:992][103]LogSlate: Window 'Import Content' being destroyed
+[2025.04.26-15.45.04:086][103]LogInterchangeEngine: [Pending] Importing
+[2025.04.26-15.45.04:087][103]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.26-15.45.04:088][103]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.26-15.45.04:089][103]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.04.26-15.45.04:089][103]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.04.26-15.45.04:090][103]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.04.26-15.45.04:091][103]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.04.26-15.45.04:092][103]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.04.26-15.45.04:093][103]LogInterchangeEngine: [Pending] Importing -  (9)
+[2025.04.26-15.45.04:094][103]LogInterchangeEngine: [Pending] Importing -  (10)
+[2025.04.26-15.45.04:095][103]LogInterchangeEngine: [Pending] Importing -  (11)
+[2025.04.26-15.45.04:141][104]LogInterchangeEngine: [Pending] Importing -  (10)
+[2025.04.26-15.45.04:141][104]LogInterchangeEngine: [Pending] Importing -  (9)
+[2025.04.26-15.45.04:141][104]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.04.26-15.45.04:141][104]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.04.26-15.45.04:141][104]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.04.26-15.45.04:141][104]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.04.26-15.45.04:141][104]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.04.26-15.45.04:141][104]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.26-15.45.04:141][104]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.26-15.45.04:141][104]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.04.26-15.45.04:142][104]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2025.04.26-15.45.04:142][104]LogInterchangeEngine: [Success] Import Canceled
+[2025.04.26-15.46.21:357][433]LogSlate: Took 0.000433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.26-15.46.23:344][434]LogSlate: Window 'Import Content' being destroyed
+[2025.04.26-15.46.23:472][434]LogInterchangeEngine: [Pending] Importing
+[2025.04.26-15.46.26:743][434]LogStaticMesh: Adjacency [0.01s], tris: 64342, UVs 1
+[2025.04.26-15.46.26:897][434]LogStaticMesh: Clustering [0.15s]. Ratio: 1.021869
+[2025.04.26-15.46.26:913][434]LogStaticMesh: Leaves [0.02s]
+[2025.04.26-15.46.28:851][434]LogStaticMesh: Reduce [1.93s]
+[2025.04.26-15.46.29:187][434]LogStaticMesh: Fallback [0.34s], num tris: 3210
+[2025.04.26-15.46.29:278][434]LogStaticMesh: ConstrainClusters:
+[2025.04.26-15.46.29:278][434]LogStaticMesh:   Input: 1052 Clusters, 132066 Triangles and 173296 Vertices
+[2025.04.26-15.46.29:278][434]LogStaticMesh:   Output without splits: 1052 Clusters, 132066 Triangles and 174160 Vertices
+[2025.04.26-15.46.29:278][434]LogStaticMesh:   Output with splits: 1260 Clusters, 132066 Triangles and 174346 Vertices
+[2025.04.26-15.46.29:281][434]LogStaticMesh: Material Stats - Unique Materials: 8, Fast Path Clusters: 1255, Slow Path Clusters: 5, 1 Material: 1049, 2 Materials: 184, 3 Materials: 22, At Least 4 Materials: 5
+[2025.04.26-15.46.29:310][434]LogStaticMesh: WritePages:
+[2025.04.26-15.46.29:310][434]LogStaticMesh:   Root: GPU size: 31816 bytes. 1 Pages. 31816.000 bytes per page (97.095% utilization).
+[2025.04.26-15.46.29:310][434]LogStaticMesh:   Streaming: GPU size: 1938376 bytes. 15 Pages (14 with relative encoding). 129225.070 bytes per page (98.591% utilization).
+[2025.04.26-15.46.29:310][434]LogStaticMesh:   Page data disk size: 1624128 bytes. Fixup data size: 8152 bytes.
+[2025.04.26-15.46.29:310][434]LogStaticMesh:   Total GPU size: 1970192 bytes, Total disk size: 1632280 bytes.
+[2025.04.26-15.46.29:310][434]LogStaticMesh: Encode [0.12s]
+[2025.04.26-15.46.29:310][434]LogStaticMesh: Nanite build [2.58s]
+
+[2025.04.26-15.46.29:373][434]LogStaticMesh: Built static mesh [5.43s] /Game/Models/uploads_files_2859313_Mars+Space+Station.uploads_files_2859313_Mars+Space+Station
+[2025.04.26-15.46.32:247][434]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.04.26-15.46.32:248][434]LogInterchangeEngine: [Success] Import Done
+[2025.04.26-15.46.37:830][708]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.04.26-15.46.37:830][708]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.04.26-15.46.37:830][708]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.04.26-15.46.37:830][708]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.04.26-15.46.37:830][708]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.04.26-15.46.37:830][708]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.04.26-15.46.37:830][708]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.04.26-15.46.37:830][708]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.04.26-15.46.37:831][708]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.04.26-15.46.37:832][708]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.04.26-15.46.37:832][708]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.04.26-15.46.37:835][708]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.04.26-15.46.37:928][708]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.04.26-15.46.37:930][708]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.04.26-15.46.37:930][708]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.04.26-15.46.37:930][708]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.04.26-15.46.37:930][708]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.04.26-15.46.37:930][708]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.04.26-15.46.37:930][708]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.04.26-15.46.37:930][708]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.04.26-15.46.37:930][708]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.04.26-15.46.37:931][708]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.04.26-15.46.37:931][708]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.04.26-15.46.37:934][708]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.04.26-15.46.38:129][708]LogD3D12RHI: Waited for PSO creation for 400.000000ms
+[2025.04.26-15.46.38:129][708]LogD3D12RHI: Waited for PSO creation for 400.000000ms
+[2025.04.26-15.46.38:130][708]LogD3D12RHI: Waited for PSO creation for 400.000000ms
+[2025.04.26-15.46.38:130][708]LogD3D12RHI: Waited for PSO creation for 400.000000ms
+[2025.04.26-15.46.38:130][708]LogD3D12RHI: Waited for PSO creation for 400.000000ms
+[2025.04.26-15.46.38:130][708]LogD3D12RHI: Waited for PSO creation for 400.000000ms
+[2025.04.26-15.46.38:130][708]LogD3D12RHI: Waited for PSO creation for 400.000000ms
+[2025.04.26-15.46.38:130][708]LogD3D12RHI: Waited for PSO creation for 400.000000ms
+[2025.04.26-15.46.38:130][708]LogD3D12RHI: Waited for PSO creation for 400.000000ms
+[2025.04.26-15.46.38:131][708]LogD3D12RHI: Waited for PSO creation for 400.000000ms
+[2025.04.26-15.46.38:131][708]LogD3D12RHI: Waited for PSO creation for 400.000000ms
+[2025.04.26-15.46.38:135][708]LogD3D12RHI: Waited for PSO creation for 400.000000ms
+[2025.04.26-15.46.38:531][708]LogD3D12RHI: Waited for PSO creation for 800.000000ms
+[2025.04.26-15.46.38:531][708]LogD3D12RHI: Waited for PSO creation for 800.000000ms
+[2025.04.26-15.46.38:531][708]LogD3D12RHI: Waited for PSO creation for 800.000000ms
+[2025.04.26-15.46.38:531][708]LogD3D12RHI: Waited for PSO creation for 800.000000ms
+[2025.04.26-15.46.38:531][708]LogD3D12RHI: Waited for PSO creation for 800.000000ms
+[2025.04.26-15.46.38:531][708]LogD3D12RHI: Waited for PSO creation for 800.000000ms
+[2025.04.26-15.46.38:531][708]LogD3D12RHI: Waited for PSO creation for 800.000000ms
+[2025.04.26-15.46.38:532][708]LogD3D12RHI: Waited for PSO creation for 800.000000ms
+[2025.04.26-15.46.38:532][708]LogD3D12RHI: Waited for PSO creation for 800.000000ms
+[2025.04.26-15.46.38:534][708]LogD3D12RHI: Waited for PSO creation for 800.000000ms
+[2025.04.26-15.46.38:699][708]LogPSOHitching: Encountered 350 PSO creation hitches so far (125 graphics, 225 compute). 0 of them were precached.
+[2025.04.26-15.46.39:329][708]LogD3D12RHI: Waited for PSO creation for 1600.000000ms
+[2025.04.26-15.46.39:329][708]LogD3D12RHI: Waited for PSO creation for 1600.000000ms
+[2025.04.26-15.46.39:330][708]LogD3D12RHI: Waited for PSO creation for 1600.000000ms
+[2025.04.26-15.46.39:331][708]LogD3D12RHI: Waited for PSO creation for 1600.000000ms
+[2025.04.26-15.46.40:044][710]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.04.26-15.46.40:241][711]LogPSOHitching: Encountered 400 PSO creation hitches so far (144 graphics, 256 compute). 0 of them were precached.
+[2025.04.26-15.46.40:292][711]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.04.26-15.46.40:292][711]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.04.26-15.46.42:653][749]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/uploads_files_2859313_Mars+Space+Station.uploads_files_2859313_Mars+Space+Station
+[2025.04.26-15.46.42:655][749]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/uploads_files_2859313_Mars+Space+Station.uploads_files_2859313_Mars+Space+Station
+[2025.04.26-15.46.42:657][749]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/uploads_files_2859313_Mars+Space+Station.uploads_files_2859313_Mars+Space+Station as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_2
+[2025.04.26-15.46.47:251][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.04.26-15.46.47:253][923]LogEditorActor: Deleted 0 Actors (0.108 secs)
+[2025.04.26-15.46.47:269][923]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/uploads_files_2859313_Mars+Space+Station.uploads_files_2859313_Mars+Space+Station
+[2025.04.26-15.46.47:269][923]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/uploads_files_2859313_Mars+Space+Station.uploads_files_2859313_Mars+Space+Station
+[2025.04.26-15.46.47:276][923]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/uploads_files_2859313_Mars+Space+Station.uploads_files_2859313_Mars+Space+Station as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_105FAD655391906202_2138954327
+[2025.04.26-15.47.09:908][145]LogShaderCompilers: Display: ================================================
+[2025.04.26-15.47.09:908][145]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: Total job queries 177, among them cache hits 15 (8.47%), DDC hits 151 (85.31%), Duplicates 6 (3.39%)
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: Tracking 156 distinct input hashes that result in 146 distinct outputs (93.59%)
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: RAM used: 118.30 KiB of 1.50 GiB budget. Usage: 0.01%
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: Shaders Compiled: 5
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.03 s
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: Job execution time: average 3.54 s, max 4.53 s
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: Job life time (pending + execution): average 3.56 s, max 4.55
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: Shader code size: average 7.549 KiB, min 4.402 KiB, max 11.801 KiB
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.56 s
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: Average processing rate: 1.10 jobs/sec
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: Total thread time: 7.403 s
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: Total thread preprocess time: 17.592 s
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: Percentage time preprocessing: 237.63%
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: Effective parallelization: 1.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 2.49 sec, max 2.49 sec, min 2.49 sec)
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.46 sec, max 1.46 sec, min 1.46 sec)
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 1.19 sec, max 1.19 sec, min 1.19 sec)
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 1.14 sec, max 1.14 sec, min 1.14 sec)
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 1.12 sec, max 1.12 sec, min 1.12 sec)
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 33.64% of total time (compiled    1 times, average 2.49 sec, max 2.49 sec, min 2.49 sec)
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.71% of total time (compiled    1 times, average 1.46 sec, max 1.46 sec, min 1.46 sec)
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display:                                                 FLumenCardPS - 16.01% of total time (compiled    1 times, average 1.19 sec, max 1.19 sec, min 1.19 sec)
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.45% of total time (compiled    1 times, average 1.14 sec, max 1.14 sec, min 1.14 sec)
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.19% of total time (compiled    1 times, average 1.12 sec, max 1.12 sec, min 1.12 sec)
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: === Material stats ===
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: Materials Translated:    131
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: Material Translation Only: 0.06 s (45%)
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: Material Cache Hits: 11 (8%)
+[2025.04.26-15.47.09:909][145]LogShaderCompilers: Display: ================================================
+[2025.04.26-15.47.10:569][174]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 370.288177
+[2025.04.26-15.47.10:681][180]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.26-15.47.10:681][180]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 370.381622, Update Interval: 340.491333
+[2025.04.26-15.47.17:914][395]LogStreaming: Display: FlushAsyncLoading(434): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.26-15.47.17:969][395]LogInterchangeEngine: [Pending] Importing
+[2025.04.26-15.47.17:969][395]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars Space Station_base_main_body_BaseColor.png]
+[2025.04.26-15.47.17:970][395]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.26-15.47.17:970][395]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars Space Station_base_main_body_Height.png]
+[2025.04.26-15.47.17:971][395]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.26-15.47.17:972][395]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars Space Station_base_main_body_Metallic.png]
+[2025.04.26-15.47.17:973][395]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.04.26-15.47.17:973][395]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars Space Station_base_main_body_Normal.png]
+[2025.04.26-15.47.17:974][395]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.04.26-15.47.17:974][395]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars Space Station_base_main_body_Roughness.png]
+[2025.04.26-15.47.17:975][395]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.04.26-15.47.17:975][395]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Foil/Mars Space Station_foil_foil_covered_cylinder_BaseColor.png]
+[2025.04.26-15.47.17:976][395]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.04.26-15.47.17:976][395]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Foil/Mars Space Station_foil_foil_covered_cylinder_Height.png]
+[2025.04.26-15.47.17:977][395]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.04.26-15.47.17:977][395]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Foil/Mars Space Station_foil_foil_covered_cylinder_Metallic.png]
+[2025.04.26-15.47.17:978][395]LogInterchangeEngine: [Pending] Importing -  (9)
+[2025.04.26-15.47.17:978][395]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Foil/Mars Space Station_foil_foil_covered_cylinder_Normal.png]
+[2025.04.26-15.47.17:979][395]LogInterchangeEngine: [Pending] Importing -  (10)
+[2025.04.26-15.47.17:979][395]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Foil/Mars Space Station_foil_foil_covered_cylinder_Roughness.png]
+[2025.04.26-15.47.18:604][397]LogStreaming: Display: FlushAsyncLoading(444): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.26-15.47.18:932][398]LogTexture: Display: Building textures: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Height.Mars_Space_Station_base_main_body_Height (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 376.083323 MB), EncodeSpeed: Fast
+[2025.04.26-15.47.18:932][398]LogTexture: Display: Building textures: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor.Mars_Space_Station_base_main_body_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 388.083323 MB), EncodeSpeed: Fast
+[2025.04.26-15.47.19:001][398]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.04.26-15.47.19:091][399]LogTexture: Display: Building textures: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Normal.Mars_Space_Station_base_main_body_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2025.04.26-15.47.19:303][399]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Dante/Deskt...Models/TEXTURES/Base/Mars Space Station_base_main_body_BaseColor.png]
+[2025.04.26-15.47.19:303][399]LogInterchangeEngine: [Pending] Importing -  (9)
+[2025.04.26-15.47.19:304][399]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Dante/Deskt...Models/TEXTURES/Base/Mars Space Station_base_main_body_Height.png]
+[2025.04.26-15.47.19:304][399]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.04.26-15.47.19:304][399]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Dante/Deskt...Models/TEXTURES/Base/Mars Space Station_base_main_body_Normal.png]
+[2025.04.26-15.47.19:304][399]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.04.26-15.47.19:312][399]LogTexture: Display: Building textures: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Metallic.Mars_Space_Station_base_main_body_Metallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 376.083323 MB), EncodeSpeed: Fast
+[2025.04.26-15.47.19:324][399]LogTexture: Display: Building textures: /Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Height.Mars_Space_Station_foil_foil_covered_cylinder_Height (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 376.083323 MB), EncodeSpeed: Fast
+[2025.04.26-15.47.19:363][399]LogTexture: Display: Building textures: /Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_BaseColor.Mars_Space_Station_foil_foil_covered_cylinder_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 388.083323 MB), EncodeSpeed: Fast
+[2025.04.26-15.47.19:461][399]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.04.26-15.47.19:576][400]LogTexture: Display: Building textures: /Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Metallic.Mars_Space_Station_foil_foil_covered_cylinder_Metallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 376.083323 MB), EncodeSpeed: Fast
+[2025.04.26-15.47.19:612][400]LogTexture: Display: Building textures: /Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Normal.Mars_Space_Station_foil_foil_covered_cylinder_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2025.04.26-15.47.19:735][400]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Dante/Deskt...Models/TEXTURES/Base/Mars Space Station_base_main_body_Metallic.png]
+[2025.04.26-15.47.19:735][400]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.04.26-15.47.19:737][400]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Dante/Deskt...Models/TEXTURES/Foil/Mars Space Station_foil_foil_covered_cylinder_Height.png]
+[2025.04.26-15.47.19:737][400]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.04.26-15.47.19:749][400]LogTexture: Display: Building textures: /Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Roughness.Mars_Space_Station_foil_foil_covered_cylinder_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 376.083323 MB), EncodeSpeed: Fast
+[2025.04.26-15.47.19:785][401]LogTexture: Display: Building textures: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Roughness.Mars_Space_Station_base_main_body_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 376.083323 MB), EncodeSpeed: Fast
+[2025.04.26-15.47.19:989][401]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Dante/Deskt...Models/TEXTURES/Foil/Mars Space Station_foil_foil_covered_cylinder_BaseColor.png]
+[2025.04.26-15.47.19:989][401]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.04.26-15.47.19:991][401]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Dante/Deskt...Models/TEXTURES/Foil/Mars Space Station_foil_foil_covered_cylinder_Metallic.png]
+[2025.04.26-15.47.19:991][401]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.26-15.47.19:992][401]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Dante/Deskt...Models/TEXTURES/Foil/Mars Space Station_foil_foil_covered_cylinder_Normal.png]
+[2025.04.26-15.47.19:992][401]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.26-15.47.19:992][401]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Dante/Deskt...Models/TEXTURES/Foil/Mars Space Station_foil_foil_covered_cylinder_Roughness.png]
+[2025.04.26-15.47.19:992][401]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.04.26-15.47.19:993][401]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Dante/Deskt...Models/TEXTURES/Base/Mars Space Station_base_main_body_Roughness.png]
+[2025.04.26-15.47.20:056][401]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.04.26-15.47.20:057][401]LogInterchangeEngine: [Success] Import Done
+[2025.04.26-15.48.15:318][477]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.04.26-15.48.15:349][477]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.04.26-15.48.15:360][477]LogStreaming: Display: FlushAsyncLoading(454): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.26-15.48.15:377][477]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2025.04.26-15.48.15:394][477]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2025.04.26-15.48.15:398][477]LogStaticMesh: Built static mesh [0.03s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2025.04.26-15.48.15:432][477]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2025.04.26-15.48.15:481][477]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2025.04.26-15.48.15:484][477]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2025.04.26-15.48.15:677][477]LogSlate: Took 0.027263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.04.26-15.48.16:837][477]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1202.500 MiB, MemoryLimit = 952.226562 MiB 
+[2025.04.26-15.48.16:837][477]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1202.500 MiB, MemoryLimit = 954.226562 MiB 
+[2025.04.26-15.48.17:320][477]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_Alpha.UVEditorColorGrid_Alpha (TFO_BC4, 4096x4096 x1x1x1) (Required Memory Estimate: 1202.499987 MB), EncodeSpeed: Fast
+[2025.04.26-15.48.17:799][480]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1121.000 MiB, MemoryLimit = 852.140625 MiB 
+[2025.04.26-15.48.17:799][480]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1121.000 MiB, MemoryLimit = 850.640625 MiB 
+[2025.04.26-15.48.17:946][480]LogPSOHitching: Encountered 450 PSO creation hitches so far (173 graphics, 277 compute). 0 of them were precached.
+[2025.04.26-15.48.18:507][487]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_Color.UVEditorColorGrid_Color (TFO_DXT1, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.04.26-15.48.19:796][495]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_DistanceFieldFont.UVEditorColorGrid_DistanceFieldFont (BGRA8, 4096x4096 x1x1x1) (Required Memory Estimate: 576.999992 MB), EncodeSpeed: Fast
+[2025.04.26-15.48.19:815][495]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_Data.UVEditorColorGrid_Data (BGRA8, 4096x4096 x1x1x1) (Required Memory Estimate: 576.999992 MB), EncodeSpeed: Fast
+[2025.04.26-15.48.21:016][498]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_Grayscale.UVEditorColorGrid_Grayscale (BGRA8, 4096x4096 x1x1x1) (Required Memory Estimate: 576.999992 MB), EncodeSpeed: Fast
+[2025.04.26-15.48.21:466][500]LogSlate: Window 'UV: StaticMeshComponent0' being destroyed
+[2025.04.26-15.48.21:527][500]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.04.26-15.48.21:527][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.26-15.48.21:529][500]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.26-15.48.21:529][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.26-15.48.21:719][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2025.04.26-15.48.22:322][502]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_LinearColor.UVEditorColorGrid_LinearColor (TFO_DXT1, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.04.26-15.48.23:659][506]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_LinearGrayscale.UVEditorColorGrid_LinearGrayscale (G8, 4096x4096 x1x1x1) (Required Memory Estimate: 512.999993 MB), EncodeSpeed: Fast
+[2025.04.26-15.48.23:873][506]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1121.000 MiB, MemoryLimit = 857.433594 MiB 
+[2025.04.26-15.48.23:874][506]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1121.000 MiB, MemoryLimit = 857.433594 MiB 
+[2025.04.26-15.48.24:446][508]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_Mask.UVEditorColorGrid_Mask (TFO_DXT1, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.04.26-15.48.25:410][524]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_Normal.UVEditorColorGrid_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2025.04.26-15.48.25:410][524]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_VTColor.UVEditorColorGrid_VTColor (TFO_DXT1, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.04.26-15.48.26:755][557]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_VTNormal.UVEditorColorGrid_VTNormal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2025.04.26-15.48.29:876][673]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/uploads_files_2859313_Mars+Space+Station.uploads_files_2859313_Mars+Space+Station
+[2025.04.26-15.48.30:132][673]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.04.26-15.48.30:601][673]LogStreaming: Display: FlushAsyncLoading(467): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.26-15.48.34:584][736]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.04.26-15.49.02:468][644]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-15.49.02:509][644]LogMaterial: Display: Material /Game/FPWeapon/Materials/BaseMaterial.BaseMaterial needed to have new flag set bUsedWithNanite !
+[2025.04.26-15.49.16:531][868]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial
+[2025.04.26-15.49.16:542][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.04.26-15.49.16:542][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.04.26-15.49.16:542][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.04.26-15.49.16:542][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.04.26-15.49.16:542][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.04.26-15.49.16:542][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.04.26-15.49.16:542][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.04.26-15.49.16:542][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.04.26-15.49.16:542][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.04.26-15.49.16:542][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.04.26-15.49.16:542][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.04.26-15.49.16:542][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.04.26-15.49.16:542][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.04.26-15.49.16:542][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.04.26-15.49.16:542][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.04.26-15.49.16:542][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.04.26-15.49.16:543][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.04.26-15.49.16:543][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.04.26-15.49.16:543][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.04.26-15.49.16:543][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.04.26-15.49.16:543][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.04.26-15.49.16:543][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.04.26-15.49.16:543][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.04.26-15.49.16:543][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.04.26-15.49.16:543][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.04.26-15.49.16:543][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.04.26-15.49.16:543][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.04.26-15.49.16:543][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.04.26-15.49.16:543][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.04.26-15.49.16:543][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.04.26-15.49.16:543][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.04.26-15.49.16:543][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.04.26-15.49.16:543][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.04.26-15.49.16:543][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.04.26-15.49.16:543][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.04.26-15.49.16:543][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.04.26-15.49.16:543][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.04.26-15.49.16:543][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.04.26-15.49.16:543][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.04.26-15.49.16:543][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.04.26-15.49.16:543][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.04.26-15.49.16:543][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.04.26-15.49.16:543][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.04.26-15.49.16:543][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.04.26-15.49.16:544][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.04.26-15.49.16:544][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.04.26-15.49.16:544][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.04.26-15.49.16:544][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.04.26-15.49.16:544][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.04.26-15.49.16:544][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.04.26-15.49.16:544][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.04.26-15.49.16:544][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.04.26-15.49.16:544][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.04.26-15.49.16:544][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.04.26-15.49.16:544][868]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.04.26-15.49.16:544][868]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.04.26-15.49.16:590][868]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.04.26-15.49.18:880][868]LogSlate: Window 'Warning: Editing Default Material' being destroyed
+[2025.04.26-15.49.19:243][868]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.26-15.49.19:243][868]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.04.26-15.49.19:243][868]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.26-15.49.19:243][868]MaterialEditorStats: Shader Count: 0
+[2025.04.26-15.49.19:243][868]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.26-15.49.19:252][868]LogSlate: Took 0.000377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.26-15.49.19:550][870]MaterialEditorStats: Base pass shader: 203 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.04.26-15.49.19:550][870]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.26-15.49.19:550][870]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.26-15.49.19:550][870]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.04.26-15.49.19:550][870]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.26-15.49.19:550][870]MaterialEditorStats: Shader Count: 5
+[2025.04.26-15.49.19:550][870]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.26-15.50.06:708][733]LogStatusBar: Looking status bar with open content browser drawer...
+[2025.04.26-15.50.06:708][733]LogStatusBar: StatusBar: LevelEditor.StatusBar was content browser was not opened
+[2025.04.26-15.50.06:708][733]LogStatusBar: Using status bar: StaticMeshEditorApp_1 to dock content browser
+[2025.04.26-15.50.10:587][791]LogShaderCompilers: Display: ================================================
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: Total job queries 243, among them cache hits 22 (9.05%), DDC hits 168 (69.14%), Duplicates 6 (2.47%)
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: Tracking 215 distinct input hashes that result in 188 distinct outputs (87.44%)
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: RAM used: 133.12 KiB of 1.50 GiB budget. Usage: 0.01%
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: Shaders Compiled: 47
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: Jobs assigned 47, completed 47 (100%)
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: Average time worker was idle: 34.55 s
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: Time job spent in pending queue: average 0.30 s, longest 4.25 s
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: Job execution time: average 4.80 s, max 9.09 s
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: Job life time (pending + execution): average 5.09 s, max 9.17
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: Shader code size: average 9.682 KiB, min 2.785 KiB, max 22.977 KiB
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 26.70 s
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: Jobs were issued in 47 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: Average processing rate: 1.76 jobs/sec
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: Total thread time: 125.801 s
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: Total thread preprocess time: 20.415 s
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: Percentage time preprocessing: 16.23%
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: Effective parallelization: 4.71 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 6.05 sec, max 6.05 sec, min 6.05 sec)
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 5.38 sec, max 5.38 sec, min 5.38 sec)
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 4.67 sec, max 4.67 sec, min 4.67 sec)
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 4.11 sec, max 5.77 sec, min 2.49 sec)
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 3.95 sec, max 4.55 sec, min 3.36 sec)
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.80% of total time (compiled    9 times, average 2.63 sec, max 3.44 sec, min 1.44 sec)
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 16.34% of total time (compiled    5 times, average 4.11 sec, max 5.77 sec, min 2.49 sec)
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.00% of total time (compiled    9 times, average 1.96 sec, max 3.18 sec, min 0.97 sec)
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 6.29% of total time (compiled    2 times, average 3.95 sec, max 4.55 sec, min 3.36 sec)
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.99% of total time (compiled    2 times, average 3.77 sec, max 3.77 sec, min 3.76 sec)
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: === Material stats ===
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: Materials Translated:    151
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2025.04.26-15.50.10:588][791]LogShaderCompilers: Display: Material Translation Only: 0.09 s (47%)
+[2025.04.26-15.50.10:589][791]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.04.26-15.50.10:589][791]LogShaderCompilers: Display: Material Cache Hits: 11 (7%)
+[2025.04.26-15.50.10:589][791]LogShaderCompilers: Display: ================================================
+[2025.04.26-15.50.17:447][928]LogPSOHitching: Encountered 500 PSO creation hitches so far (196 graphics, 304 compute). 0 of them were precached.
+[2025.04.26-15.50.32:862][360]LogSlate: Window 'Save Asset As' being destroyed
+[2025.04.26-15.50.58:295][253]LogSlate: Window 'Save Asset As' being destroyed
+[2025.04.26-15.50.59:458][275]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor.Mars_Space_Station_base_main_body_BaseColor
+[2025.04.26-15.51.16:428][737]LogSlate: Window 'Save Asset As' being destroyed
+[2025.04.26-15.51.20:287][835]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.04.26-15.51.20:289][835]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.04.26-15.51.20:386][835]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.04.26-15.51.20:389][835]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.04.26-15.51.32:888][261]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-15.51.32:906][261]LogMaterial: Display: Material /Game/LevelPrototyping/Materials/M_PrototypeGrid.M_PrototypeGrid needed to have new flag set bUsedWithNanite !
+[2025.04.26-15.52.09:094][223]LogContentBrowser: Deferred new asset file creation: Mars_Space_Station_base_main_body_BaseColor_Mat
+[2025.04.26-15.52.09:137][223]LogContentBrowser: Creating deferred item: Mars_Space_Station_base_main_body_BaseColor_Mat
+[2025.04.26-15.52.09:306][224]LogContentBrowser: Renaming the item being created (Deferred Item: Mars_Space_Station_base_main_body_BaseColor_Mat).
+[2025.04.26-15.52.09:841][241]LogContentBrowser: Attempting asset rename: Mars_Space_Station_base_main_body_BaseColor_Mat -> Mars_Space_Station_base_main_body_BaseColor_Mat
+[2025.04.26-15.52.09:870][241]LogContentBrowser: End creating deferred item Mars_Space_Station_base_main_body_BaseColor_Mat
+[2025.04.26-15.52.11:782][287]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-15.52.11:817][287]LogMaterial: Display: Material /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor_Mat.Mars_Space_Station_base_main_body_BaseColor_Mat needed to have new flag set bUsedWithNanite !
+[2025.04.26-15.52.24:478][561]LogContentBrowser: Deferred new asset file creation: Mars_Space_Station_base_main_body_Height_Mat
+[2025.04.26-15.52.24:519][561]LogContentBrowser: Creating deferred item: Mars_Space_Station_base_main_body_Height_Mat
+[2025.04.26-15.52.24:694][562]LogContentBrowser: Renaming the item being created (Deferred Item: Mars_Space_Station_base_main_body_Height_Mat).
+[2025.04.26-15.52.25:459][583]LogContentBrowser: Attempting asset rename: Mars_Space_Station_base_main_body_Height_Mat -> Mars_Space_Station_base_main_body_Height_Mat
+[2025.04.26-15.52.25:475][583]LogContentBrowser: End creating deferred item Mars_Space_Station_base_main_body_Height_Mat
+[2025.04.26-15.52.27:185][625]LogContentBrowser: Deferred new asset file creation: Mars_Space_Station_base_main_body_Metallic_Mat
+[2025.04.26-15.52.27:229][625]LogContentBrowser: Creating deferred item: Mars_Space_Station_base_main_body_Metallic_Mat
+[2025.04.26-15.52.27:371][626]LogContentBrowser: Renaming the item being created (Deferred Item: Mars_Space_Station_base_main_body_Metallic_Mat).
+[2025.04.26-15.52.27:802][640]LogContentBrowser: Attempting asset rename: Mars_Space_Station_base_main_body_Metallic_Mat -> Mars_Space_Station_base_main_body_Metallic_Mat
+[2025.04.26-15.52.27:828][640]LogContentBrowser: End creating deferred item Mars_Space_Station_base_main_body_Metallic_Mat
+[2025.04.26-15.52.29:915][698]LogContentBrowser: Deferred new asset file creation: Mars_Space_Station_base_main_body_Normal_Mat
+[2025.04.26-15.52.29:956][698]LogContentBrowser: Creating deferred item: Mars_Space_Station_base_main_body_Normal_Mat
+[2025.04.26-15.52.30:103][699]LogContentBrowser: Renaming the item being created (Deferred Item: Mars_Space_Station_base_main_body_Normal_Mat).
+[2025.04.26-15.52.30:499][712]LogContentBrowser: Attempting asset rename: Mars_Space_Station_base_main_body_Normal_Mat -> Mars_Space_Station_base_main_body_Normal_Mat
+[2025.04.26-15.52.30:519][712]LogContentBrowser: End creating deferred item Mars_Space_Station_base_main_body_Normal_Mat
+[2025.04.26-15.52.32:725][758]LogContentBrowser: Deferred new asset file creation: Mars_Space_Station_base_main_body_Roughness_Mat
+[2025.04.26-15.52.32:766][758]LogContentBrowser: Creating deferred item: Mars_Space_Station_base_main_body_Roughness_Mat
+[2025.04.26-15.52.32:972][759]LogContentBrowser: Renaming the item being created (Deferred Item: Mars_Space_Station_base_main_body_Roughness_Mat).
+[2025.04.26-15.52.33:159][764]LogContentBrowser: Attempting asset rename: Mars_Space_Station_base_main_body_Roughness_Mat -> Mars_Space_Station_base_main_body_Roughness_Mat
+[2025.04.26-15.52.33:173][764]LogContentBrowser: End creating deferred item Mars_Space_Station_base_main_body_Roughness_Mat
+[2025.04.26-15.52.37:072][878]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-15.52.37:082][878]LogMaterial: Display: Material /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Height_Mat.Mars_Space_Station_base_main_body_Height_Mat needed to have new flag set bUsedWithNanite !
+[2025.04.26-15.52.53:314][274]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-15.52.53:323][274]LogMaterial: Display: Material /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Metallic_Mat.Mars_Space_Station_base_main_body_Metallic_Mat needed to have new flag set bUsedWithNanite !
+[2025.04.26-15.52.54:200][290]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 713.917480
+[2025.04.26-15.52.54:312][294]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.26-15.52.54:312][294]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 714.001038, Update Interval: 353.600281
+[2025.04.26-15.52.56:756][373]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-15.52.56:766][373]LogMaterial: Display: Material /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Normal_Mat.Mars_Space_Station_base_main_body_Normal_Mat needed to have new flag set bUsedWithNanite !
+[2025.04.26-15.52.59:306][410]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-15.52.59:317][410]LogMaterial: Display: Material /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Roughness_Mat.Mars_Space_Station_base_main_body_Roughness_Mat needed to have new flag set bUsedWithNanite !
+[2025.04.26-15.53.10:608][678]LogShaderCompilers: Display: ================================================
+[2025.04.26-15.53.10:608][678]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.26-15.53.10:608][678]LogShaderCompilers: Display: Total job queries 378, among them cache hits 110 (29.10%), DDC hits 168 (44.44%), Duplicates 11 (2.91%)
+[2025.04.26-15.53.10:608][678]LogShaderCompilers: Display: Tracking 257 distinct input hashes that result in 221 distinct outputs (85.99%)
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: RAM used: 150.71 KiB of 1.50 GiB budget. Usage: 0.01%
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: Shaders Compiled: 89
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: Jobs assigned 89, completed 89 (100%)
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: Average time worker was idle: 56.84 s
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: Time job spent in pending queue: average 0.19 s, longest 4.25 s
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: Job execution time: average 4.99 s, max 9.09 s
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: Job life time (pending + execution): average 5.18 s, max 9.17
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: Shader code size: average 11.082 KiB, min 2.785 KiB, max 22.977 KiB
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 55.89 s
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: Jobs were issued in 89 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: Average processing rate: 1.59 jobs/sec
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: Total thread time: 267.304 s
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: Total thread preprocess time: 26.023 s
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: Percentage time preprocessing: 9.74%
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: Effective parallelization: 4.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    5 times, average 5.78 sec, max 6.34 sec, min 5.36 sec)
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    4 times, average 5.54 sec, max 5.70 sec, min 5.38 sec)
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    5 times, average 4.87 sec, max 5.59 sec, min 4.57 sec)
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    5 times, average 4.17 sec, max 5.30 sec, min 3.76 sec)
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   10 times, average 4.07 sec, max 5.77 sec, min 2.49 sec)
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 15.22% of total time (compiled   10 times, average 4.07 sec, max 5.77 sec, min 2.49 sec)
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 11.83% of total time (compiled    8 times, average 3.95 sec, max 4.62 sec, min 3.16 sec)
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 10.82% of total time (compiled    5 times, average 5.78 sec, max 6.34 sec, min 5.36 sec)
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.20% of total time (compiled   11 times, average 2.48 sec, max 3.44 sec, min 1.44 sec)
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display:                                                 FLumenCardCS - 9.10% of total time (compiled    5 times, average 4.87 sec, max 5.59 sec, min 4.57 sec)
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: === Material stats ===
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: Materials Translated:    164
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: Material Total Translate Time: 0.21 s
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: Material Translation Only: 0.10 s (46%)
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: Material Cache Hits: 11 (7%)
+[2025.04.26-15.53.10:609][678]LogShaderCompilers: Display: ================================================
+[2025.04.26-15.53.10:820][687]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-15.53.13:875][774]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-15.53.33:968][388]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-15.54.00:956][142]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-15.54.01:107][142]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-15.54.01:745][156]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-15.54.01:881][156]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-15.54.02:232][161]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-15.54.02:332][161]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-15.54.02:847][173]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-15.54.02:974][173]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-15.54.03:388][181]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-15.54.03:501][181]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-15.54.45:620][579]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-15.54.49:024][656]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-15.55.29:360][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.04.26-15.55.29:381][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/BD/6C9BW4Z6VI8JDS0W5XIGMB_Auto1
+[2025.04.26-15.55.29:381][666]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/6C9BW4Z6VI8JDS0W5XIGMB_Auto1E026B9E84CA9516FF8B85488AC2F3D86.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/BD/6C9BW4Z6VI8JDS0W5XIGMB_Auto1.uasset'
+[2025.04.26-15.55.29:389][666]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.157
+[2025.04.26-15.55.29:389][666]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.157
+[2025.04.26-15.55.29:391][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Materials/M_PrototypeGrid] ([1] browsable assets)...
+[2025.04.26-15.55.29:403][666]OBJ SavePackage:     Rendered thumbnail for [Material /Game/LevelPrototyping/Materials/M_PrototypeGrid.M_PrototypeGrid]
+[2025.04.26-15.55.29:403][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/M_PrototypeGrid]
+[2025.04.26-15.55.29:417][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Materials/M_PrototypeGrid_Auto1
+[2025.04.26-15.55.29:417][666]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/M_PrototypeGrid_Auto1862EC205434036AF9BEA628D6CA05CD7.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Autosaves/Game/LevelPrototyping/Materials/M_PrototypeGrid_Auto1.uasset'
+[2025.04.26-15.55.29:420][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPWeapon/Materials/BaseMaterial] ([1] browsable assets)...
+[2025.04.26-15.55.29:431][666]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FPWeapon/Materials/BaseMaterial.BaseMaterial]
+[2025.04.26-15.55.29:431][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPWeapon/Materials/BaseMaterial]
+[2025.04.26-15.55.29:435][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPWeapon/Materials/BaseMaterial_Auto1
+[2025.04.26-15.55.29:435][666]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/BaseMaterial_Auto1D731A84845EC56D2B7F8B99ABDAD60BE.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Autosaves/Game/FPWeapon/Materials/BaseMaterial_Auto1.uasset'
+[2025.04.26-15.55.29:437][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/uploads_files_2859313_Mars+Space+Station] ([1] browsable assets)...
+[2025.04.26-15.55.29:454][666]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/uploads_files_2859313_Mars+Space+Station.uploads_files_2859313_Mars+Space+Station]
+[2025.04.26-15.55.29:454][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/uploads_files_2859313_Mars+Space+Station]
+[2025.04.26-15.55.29:496][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/uploads_files_2859313_Mars+Space+Station_Auto1
+[2025.04.26-15.55.29:496][666]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/uploads_files_2859313_Mars+Space557DC3B743AAD1D8B91859AF040B0B4D.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Autosaves/Game/Models/uploads_files_2859313_Mars+Space+Station_Auto1.uasset'
+[2025.04.26-15.55.29:499][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor] ([1] browsable assets)...
+[2025.04.26-15.55.29:504][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor.Mars_Space_Station_base_main_body_BaseColor]
+[2025.04.26-15.55.29:504][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor]
+[2025.04.26-15.55.29:525][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor_Auto1
+[2025.04.26-15.55.29:525][666]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_base_main_bodEC0297434D5E989B1D2AC4843C95EB1D.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Autosaves/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor_Auto1.uasset'
+[2025.04.26-15.55.29:527][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Height] ([1] browsable assets)...
+[2025.04.26-15.55.29:531][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Height.Mars_Space_Station_base_main_body_Height]
+[2025.04.26-15.55.29:531][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Height]
+[2025.04.26-15.55.29:538][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Height_Auto1
+[2025.04.26-15.55.29:538][666]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_base_main_bod7B6CAA6B4C9F56B3026FC5B0D2EA9270.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Autosaves/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Height_Auto1.uasset'
+[2025.04.26-15.55.29:540][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Normal] ([1] browsable assets)...
+[2025.04.26-15.55.29:542][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Normal.Mars_Space_Station_base_main_body_Normal]
+[2025.04.26-15.55.29:543][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Normal]
+[2025.04.26-15.55.29:565][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Normal_Auto1
+[2025.04.26-15.55.29:565][666]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_base_main_bod776125874D1A360C44DD0E9815FA6192.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Autosaves/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Normal_Auto1.uasset'
+[2025.04.26-15.55.29:567][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Metallic] ([1] browsable assets)...
+[2025.04.26-15.55.29:570][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Metallic.Mars_Space_Station_base_main_body_Metallic]
+[2025.04.26-15.55.29:570][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Metallic]
+[2025.04.26-15.55.29:576][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Metallic_Auto1
+[2025.04.26-15.55.29:576][666]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_base_main_bod2B5B4B924E12CA9FA7B860B5BB02347F.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Autosaves/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Metallic_Auto1.uasset'
+[2025.04.26-15.55.29:578][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_BaseColor] ([1] browsable assets)...
+[2025.04.26-15.55.29:581][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_BaseColor.Mars_Space_Station_foil_foil_covered_cylinder_BaseColor]
+[2025.04.26-15.55.29:581][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_BaseColor]
+[2025.04.26-15.55.29:601][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_BaseColor_Auto1
+[2025.04.26-15.55.29:602][666]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_foil_foil_cov5891BBF14E8E4099D67288ABAC41BE4A.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Autosaves/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_BaseColor_Auto1.uasset'
+[2025.04.26-15.55.29:604][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Height] ([1] browsable assets)...
+[2025.04.26-15.55.29:606][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Height.Mars_Space_Station_foil_foil_covered_cylinder_Height]
+[2025.04.26-15.55.29:606][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Height]
+[2025.04.26-15.55.29:613][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Height_Auto1
+[2025.04.26-15.55.29:613][666]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_foil_foil_covAFA08D964ED407A6B6204E94D607DF08.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Autosaves/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Height_Auto1.uasset'
+[2025.04.26-15.55.29:616][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Metallic] ([1] browsable assets)...
+[2025.04.26-15.55.29:622][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Metallic.Mars_Space_Station_foil_foil_covered_cylinder_Metallic]
+[2025.04.26-15.55.29:622][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Metallic]
+[2025.04.26-15.55.29:630][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Metallic_Auto1
+[2025.04.26-15.55.29:630][666]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_foil_foil_covDC1DE22747B902457C18B88540CAB34B.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Autosaves/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Metallic_Auto1.uasset'
+[2025.04.26-15.55.29:633][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Normal] ([1] browsable assets)...
+[2025.04.26-15.55.29:635][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Normal.Mars_Space_Station_foil_foil_covered_cylinder_Normal]
+[2025.04.26-15.55.29:635][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Normal]
+[2025.04.26-15.55.29:713][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Normal_Auto1
+[2025.04.26-15.55.29:713][666]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_foil_foil_covD8DB652F448150A7CF28A788ADC558E4.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Autosaves/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Normal_Auto1.uasset'
+[2025.04.26-15.55.29:715][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Roughness] ([1] browsable assets)...
+[2025.04.26-15.55.29:718][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Roughness.Mars_Space_Station_foil_foil_covered_cylinder_Roughness]
+[2025.04.26-15.55.29:718][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Roughness]
+[2025.04.26-15.55.29:724][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Roughness_Auto1
+[2025.04.26-15.55.29:725][666]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_foil_foil_covCF3AD04B42B915275CC133895996C9E5.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Autosaves/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Roughness_Auto1.uasset'
+[2025.04.26-15.55.29:726][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Roughness] ([1] browsable assets)...
+[2025.04.26-15.55.29:728][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Roughness.Mars_Space_Station_base_main_body_Roughness]
+[2025.04.26-15.55.29:728][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Roughness]
+[2025.04.26-15.55.29:734][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Roughness_Auto1
+[2025.04.26-15.55.29:735][666]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_base_main_bod35F8A4F742273ABD1246928B3F326346.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Autosaves/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Roughness_Auto1.uasset'
+[2025.04.26-15.55.29:736][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor_Mat] ([1] browsable assets)...
+[2025.04.26-15.55.29:745][666]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor_Mat.Mars_Space_Station_base_main_body_BaseColor_Mat]
+[2025.04.26-15.55.29:745][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor_Mat]
+[2025.04.26-15.55.29:748][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor_Mat_Auto1
+[2025.04.26-15.55.29:748][666]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_base_main_bodB23A4F5242C73B2430C715A4761517FF.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Autosaves/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor_Mat_Auto1.uasset'
+[2025.04.26-15.55.29:749][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Height_Mat] ([1] browsable assets)...
+[2025.04.26-15.55.29:758][666]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Height_Mat.Mars_Space_Station_base_main_body_Height_Mat]
+[2025.04.26-15.55.29:758][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Height_Mat]
+[2025.04.26-15.55.29:761][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Height_Mat_Auto1
+[2025.04.26-15.55.29:761][666]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_base_main_bodBBFD040942434D97EC570CBF7F7E0558.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Autosaves/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Height_Mat_Auto1.uasset'
+[2025.04.26-15.55.29:762][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Metallic_Mat] ([1] browsable assets)...
+[2025.04.26-15.55.29:771][666]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Metallic_Mat.Mars_Space_Station_base_main_body_Metallic_Mat]
+[2025.04.26-15.55.29:771][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Metallic_Mat]
+[2025.04.26-15.55.29:774][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Metallic_Mat_Auto1
+[2025.04.26-15.55.29:774][666]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_base_main_bod1820911942D9D2B27DAEEC869B652A4A.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Autosaves/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Metallic_Mat_Auto1.uasset'
+[2025.04.26-15.55.29:775][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Normal_Mat] ([1] browsable assets)...
+[2025.04.26-15.55.29:784][666]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Normal_Mat.Mars_Space_Station_base_main_body_Normal_Mat]
+[2025.04.26-15.55.29:784][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Normal_Mat]
+[2025.04.26-15.55.29:787][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Normal_Mat_Auto1
+[2025.04.26-15.55.29:787][666]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_base_main_bod5640EFB843EFE02E4A142694C854E1C9.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Autosaves/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Normal_Mat_Auto1.uasset'
+[2025.04.26-15.55.29:789][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Roughness_Mat] ([1] browsable assets)...
+[2025.04.26-15.55.29:799][666]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Roughness_Mat.Mars_Space_Station_base_main_body_Roughness_Mat]
+[2025.04.26-15.55.29:799][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Roughness_Mat]
+[2025.04.26-15.55.29:801][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Roughness_Mat_Auto1
+[2025.04.26-15.55.29:801][666]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_base_main_bodD4FF6837485EC79EEF85AC8C98D06E22.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Autosaves/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Roughness_Mat_Auto1.uasset'
+[2025.04.26-15.55.29:802][666]LogFileHelpers: Auto-saving content packages took 0.414
+[2025.04.26-15.58.54:646][906]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1074.364380
+[2025.04.26-15.58.55:655][908]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.26-15.58.55:656][908]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1075.031860, Update Interval: 307.586304
+[2025.04.26-16.04.16:707][871]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1396.426025
+[2025.04.26-16.04.17:711][874]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.26-16.04.17:711][875]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1397.092773, Update Interval: 353.783386
+[2025.04.26-16.07.26:108][579]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-16.07.28:017][625]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-16.07.30:161][689]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-16.07.31:903][738]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-16.07.36:137][858]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-16.07.42:451][ 48]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-16.07.53:842][350]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-16.08.12:972][882]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-16.08.41:974][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.04.26-16.08.41:980][906]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.031
+[2025.04.26-16.08.41:981][906]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/uploads_files_2859313_Mars+Space+Station] ([1] browsable assets)...
+[2025.04.26-16.08.42:002][906]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/uploads_files_2859313_Mars+Space+Station.uploads_files_2859313_Mars+Space+Station]
+[2025.04.26-16.08.42:002][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/uploads_files_2859313_Mars+Space+Station]
+[2025.04.26-16.08.42:037][906]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/uploads_files_2859313_Mars+Space+Station_Auto2
+[2025.04.26-16.08.42:037][906]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/uploads_files_2859313_Mars+Space5A9DDC6A431A78BA2598A084D9F391F1.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Autosaves/Game/Models/uploads_files_2859313_Mars+Space+Station_Auto2.uasset'
+[2025.04.26-16.08.42:040][906]LogFileHelpers: Auto-saving content packages took 0.060
+[2025.04.26-16.10.00:126][143]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.04.26-16.11.40:918][143]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.04.26-16.11.40:918][143]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=43436
+[2025.04.26-16.11.40:978][144]LogUdpMessaging: Error: Socket error detected when communicating with 10.63.41.37:59312. Banning communication to that endpoint.
+[2025.04.26-16.11.41:213][144]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.04.26-16.11.41:500][144]LogHttp: Warning: 0000046EC7BB3800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.26-16.11.41:500][144]LogHttp: Warning: 0000046EC7BB3800: libcurl info message cache 0 (Too old connection (160 seconds idle), disconnect it)
+[2025.04.26-16.11.41:500][144]LogHttp: Warning: 0000046EC7BB3800: libcurl info message cache 1 (Connection 0 seems to be dead)
+[2025.04.26-16.11.41:500][144]LogHttp: Warning: 0000046EC7BB3800: libcurl info message cache 2 (Closing connection)
+[2025.04.26-16.11.41:500][144]LogHttp: Warning: 0000046EC7BB3800: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.04.26-16.11.41:500][144]LogHttp: Warning: 0000046EC7BB3800: libcurl info message cache 4 (Send failure: Connection was aborted)
+[2025.04.26-16.11.41:500][144]LogHttp: Warning: 0000046EC7BB3800: libcurl info message cache 5 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.04.26-16.11.41:500][144]LogHttp: Warning: 0000046EC7BB3800: libcurl info message cache 6 (Closing connection)
+[2025.04.26-16.11.41:500][144]LogEOSSDK: Warning: LogHttp: 0000046C6A207800: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BCB7A173C-4333-77EE-FE4D-4DB40431C54F%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.26-16.11.41:500][144]LogEOSSDK: Warning: LogHttp: 0000046C6A207800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.26-16.11.41:500][144]LogEOSSDK: Warning: LogHttp: 0000046C6A207800: libcurl info message cache 0 (Too old connection (131 seconds idle), disconnect it)
+[2025.04.26-16.11.41:500][144]LogEOSSDK: Warning: LogHttp: 0000046C6A207800: libcurl info message cache 1 (Connection 0 seems to be dead)
+[2025.04.26-16.11.41:500][144]LogEOSSDK: Warning: LogHttp: 0000046C6A207800: libcurl info message cache 2 (Closing connection)
+[2025.04.26-16.11.41:500][144]LogEOSSDK: Warning: LogHttp: 0000046C6A207800: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.04.26-16.11.41:500][144]LogEOSSDK: Warning: LogHttp: 0000046C6A207800: libcurl info message cache 4 (Send failure: Connection was aborted)
+[2025.04.26-16.11.41:500][144]LogEOSSDK: Warning: LogHttp: 0000046C6A207800: libcurl info message cache 5 (Could not resolve host: api.epicgames.dev)
+[2025.04.26-16.11.41:501][145]LogEOSSDK: Warning: LogHttp: 0000046C6A207800: libcurl info message cache 6 (Closing connection)
+[2025.04.26-16.11.41:501][145]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BCB7A173C-4333-77EE-FE4D-4DB40431C54F%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.04.26-16.11.41:546][145]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.04.26-16.11.41:551][145]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d4585028-335a-48eb-9a7f-6cd1758ba171}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=348.36
+[2025.04.26-16.11.41:551][145]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.04.26-16.11.41:554][145]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.04.26-16.11.41:646][145]LogEOSSDK: Warning: LogHttp: 0000046C6A208400: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.26-16.11.41:646][145]LogEOSSDK: Warning: LogHttp: 0000046C6A208400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.26-16.11.41:646][145]LogEOSSDK: Warning: LogHttp: 0000046C6A208400: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.04.26-16.11.41:646][145]LogEOSSDK: Warning: LogHttp: 0000046C6A208400: libcurl info message cache 1 (Closing connection)
+[2025.04.26-16.11.41:646][145]LogEOSSDK: Warning: LogHttp: 0000046C6A203600: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=9585761F46A3F579370FB082F5DA9198, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.26-16.11.41:646][145]LogEOSSDK: Warning: LogHttp: 0000046C6A203600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.26-16.11.41:646][145]LogEOSSDK: Warning: LogHttp: 0000046C6A203600: libcurl info message cache 0 (Found bundle for host: 0x46c7f080480 [serially])
+[2025.04.26-16.11.41:647][146]LogEOSSDK: Warning: LogHttp: 0000046C6A203600: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.04.26-16.11.41:647][146]LogEOSSDK: Warning: LogHttp: 0000046C6A203600: libcurl info message cache 2 (Closing connection)
+[2025.04.26-16.11.41:647][146]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.04.26-16.11.41:647][146]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=9585761F46A3F579370FB082F5DA9198
+[2025.04.26-16.11.41:891][146]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 76b...86f
+[2025.04.26-16.11.42:890][149]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.04.26-16.11.42:890][149]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=9585761F46A3F579370FB082F5DA9198
+[2025.04.26-16.11.43:388][149]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:63432'.
+[2025.04.26-16.11.43:393][149]LogUdpMessaging: Display: Added local interface '10.63.41.37' to multicast group '230.0.0.1:6666'
+[2025.04.26-16.11.43:415][150]LogEOSSDK: Warning: LogHttp: 0000046C6A208400: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.26-16.11.43:416][150]LogEOSSDK: Warning: LogHttp: 0000046C6A208400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.26-16.11.43:416][150]LogEOSSDK: Warning: LogHttp: 0000046C6A208400: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.04.26-16.11.43:416][150]LogEOSSDK: Warning: LogHttp: 0000046C6A208400: libcurl info message cache 3 (Closing connection)
+[2025.04.26-16.11.43:416][150]LogEOSSDK: Warning: LogHttp: 0000046C6A203600: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=9585761F46A3F579370FB082F5DA9198, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.26-16.11.43:416][150]LogEOSSDK: Warning: LogHttp: 0000046C6A203600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.26-16.11.43:416][150]LogEOSSDK: Warning: LogHttp: 0000046C6A203600: libcurl info message cache 3 (Found bundle for host: 0x46c7f0801b0 [serially])
+[2025.04.26-16.11.43:416][151]LogEOSSDK: Warning: LogHttp: 0000046C6A203600: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.04.26-16.11.43:416][151]LogEOSSDK: Warning: LogHttp: 0000046C6A203600: libcurl info message cache 5 (Closing connection)
+[2025.04.26-16.11.43:416][151]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.04.26-16.11.43:416][151]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=9585761F46A3F579370FB082F5DA9198
+[2025.04.26-16.11.43:750][152]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 76b...86f
+[2025.04.26-16.11.44:430][153]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.04.26-16.11.44:430][154]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=9585761F46A3F579370FB082F5DA9198
+[2025.04.26-16.11.44:763][154]LogEOSSDK: Warning: LogHttp: 0000046C6A208400: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.26-16.11.44:763][154]LogEOSSDK: Warning: LogHttp: 0000046C6A208400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.26-16.11.44:763][154]LogEOSSDK: Warning: LogHttp: 0000046C6A208400: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.04.26-16.11.44:763][154]LogEOSSDK: Warning: LogHttp: 0000046C6A208400: libcurl info message cache 5 (Closing connection)
+[2025.04.26-16.11.44:763][155]LogEOSSDK: Warning: LogHttp: 0000046C6A203600: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=9585761F46A3F579370FB082F5DA9198, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.26-16.11.44:763][155]LogEOSSDK: Warning: LogHttp: 0000046C6A203600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.26-16.11.44:763][155]LogEOSSDK: Warning: LogHttp: 0000046C6A203600: libcurl info message cache 6 (Found bundle for host: 0x46c7f080cf0 [serially])
+[2025.04.26-16.11.44:763][155]LogEOSSDK: Warning: LogHttp: 0000046C6A203600: libcurl info message cache 7 (Could not resolve host: api.epicgames.dev)
+[2025.04.26-16.11.44:763][155]LogEOSSDK: Warning: LogHttp: 0000046C6A203600: libcurl info message cache 8 (Closing connection)
+[2025.04.26-16.11.44:763][155]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.04.26-16.11.44:763][155]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=9585761F46A3F579370FB082F5DA9198
+[2025.04.26-16.11.44:763][155]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2025.04.26-16.11.45:085][155]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 76b...86f
+[2025.04.26-16.11.45:764][157]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.04.26-16.11.46:086][158]LogEOSSDK: Warning: LogHttp: 0000046C6A208400: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.26-16.11.46:086][158]LogEOSSDK: Warning: LogHttp: 0000046C6A208400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.26-16.11.46:086][158]LogEOSSDK: Warning: LogHttp: 0000046C6A208400: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.04.26-16.11.46:086][158]LogEOSSDK: Warning: LogHttp: 0000046C6A208400: libcurl info message cache 7 (Closing connection)
+[2025.04.26-16.11.46:086][158]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.04.26-16.11.46:416][160]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 76b...86f
+[2025.04.26-16.11.47:094][161]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.04.26-16.11.47:417][162]LogEOSSDK: Warning: LogHttp: 0000046C6A208400: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.26-16.11.47:417][163]LogEOSSDK: Warning: LogHttp: 0000046C6A208400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.26-16.11.47:417][163]LogEOSSDK: Warning: LogHttp: 0000046C6A208400: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2025.04.26-16.11.47:417][163]LogEOSSDK: Warning: LogHttp: 0000046C6A208400: libcurl info message cache 9 (Closing connection)
+[2025.04.26-16.11.47:417][163]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.04.26-16.11.47:417][163]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[OAuth], OperationName=[TokenInfov2], Url=[<Redacted>]
+[2025.04.26-16.11.47:751][163]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_NoConnection UserId: 76b...86f
+[2025.04.26-16.11.50:932][173]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.04.26-16.14.48:169][173]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.04.26-16.14.48:169][173]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=43436
+[2025.04.26-16.14.48:192][173]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2027.908936
+[2025.04.26-16.14.49:432][174]LogHttp: Warning: 0000046EC7BB0700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.26-16.14.49:433][174]LogHttp: Warning: 0000046EC7BB0700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.04.26-16.14.49:433][174]LogHttp: Warning: 0000046EC7BB0700: libcurl info message cache 1 (Closing connection)
+[2025.04.26-16.14.49:433][174]LogEOSSDK: Warning: LogHttp: 0000046C6A204800: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BCB7A173C-4333-77EE-FE4D-4DB40431C54F%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.26-16.14.49:433][174]LogEOSSDK: Warning: LogHttp: 0000046C6A204800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.26-16.14.49:433][174]LogEOSSDK: Warning: LogHttp: 0000046C6A204800: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.04.26-16.14.49:433][174]LogEOSSDK: Warning: LogHttp: 0000046C6A204800: libcurl info message cache 1 (Closing connection)
+[2025.04.26-16.14.49:433][174]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BCB7A173C-4333-77EE-FE4D-4DB40431C54F%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.04.26-16.14.49:768][176]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.04.26-16.14.49:772][176]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d4585028-335a-48eb-9a7f-6cd1758ba171}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1580.22
+[2025.04.26-16.14.49:772][176]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.04.26-16.14.49:776][176]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.04.26-16.14.50:157][177]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.26-16.14.50:157][177]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2029.532715, Update Interval: 317.739807
+[2025.04.26-16.14.53:435][187]LogUdpMessaging: Error: Socket error detected when communicating with 127.0.0.1:59312. Banning communication to that endpoint.
+[2025.04.26-16.14.53:435][187]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.04.26-16.14.55:624][192]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:56837'.
+[2025.04.26-16.14.55:629][192]LogUdpMessaging: Display: Added local interface '10.63.41.37' to multicast group '230.0.0.1:6666'
+[2025.04.26-16.15.36:605][491]LogSlate: Window 'Content Browser' being destroyed
+[2025.04.26-16.15.36:869][491]LogSlate: Window 'Content Browser' being destroyed
+[2025.04.26-16.16.11:672][913]LogEditorTransaction: Undo Move Elements
+[2025.04.26-16.16.44:022][322]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-16.16.44:168][323]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-16.16.44:271][324]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-16.16.44:377][325]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-16.16.45:432][339]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-16.16.45:519][340]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-16.16.45:603][341]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-16.16.45:713][342]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-16.16.45:803][343]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-16.16.45:873][344]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-16.16.45:968][345]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-16.16.46:286][349]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-16.16.46:608][354]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-16.16.47:337][362]LogEditorTransaction: Undo Set Vector Property
+[2025.04.26-16.16.47:483][362]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/uploads_files_2859313_Mars+Space+Station) ...
+[2025.04.26-16.18.27:050][ 49]LogSlate: Window 'uploads_files_2859313_Mars+Space+Station' being destroyed
+[2025.04.26-16.18.27:351][ 49]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.04.26-16.18.27:351][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.26-16.18.27:406][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.04.26-16.18.44:650][534]Cmd: TRANSACTION UNDO
+[2025.04.26-16.18.44:650][534]LogEditorTransaction: Undo Move Elements
+[2025.04.26-16.19.23:123][479]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.26-16.19.23:134][479]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.26-16.19.23:134][479]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.04.26-16.19.23:144][479]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 8.405 ms
+[2025.04.26-16.19.23:144][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.26-16.19.23:163][479]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.04.26-16.19.23:163][479]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.04.26-16.19.23:163][479]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.04.26-16.19.23:183][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019603s)
+[2025.04.26-16.19.23:183][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.019743s)
+[2025.04.26-16.19.23:232][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.04.26-16.19.23:235][479]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.04.26-16.19.23:238][479]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.26-16.19.23:238][479]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.26-16.19.23:238][479]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.26-16.19.23:238][479]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.26-16.19.23:240][479]LogWorldPartition: Display: WorldPartition initialize took 2.260 ms (total: 202.372 ms)
+[2025.04.26-16.19.23:240][479]LogPlayLevel: PIE: World Init took: (0.004803s)
+[2025.04.26-16.19.23:242][479]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.04.26-16.19.23:242][479]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.26-16.19.23:242][479]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.26-16.19.23:242][479]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.26-16.19.23:242][479]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.26-16.19.23:242][479]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.26-16.19.23:242][479]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.26-16.19.23:242][479]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.26-16.19.23:242][479]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.26-16.19.23:242][479]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.26-16.19.23:242][479]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.26-16.19.23:242][479]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.26-16.19.23:244][479]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.26-16.19.23:354][479]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.04.26-16.19.23:354][479]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.26-16.19.23:354][479]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.26-16.19.23:354][479]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.26-16.19.23:354][479]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.04.26-16.19.23:354][479]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.04.26-16.19.23:359][479]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.04.26-16.19.23:359][479]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.04.26-16.19.23:359][479]LogInit: FAudioDevice initialized with ID 2.
+[2025.04.26-16.19.23:359][479]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2025.04.26-16.19.23:359][479]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.04.26-16.19.23:367][479]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.04.26-16.19.23:372][479]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.04.26-12.19.23
+[2025.04.26-16.19.23:372][479]LogWorld: Bringing up level for play took: 0.004047
+[2025.04.26-16.19.23:377][479]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.04.26-16.19.23:389][479]PIE: Server logged in
+[2025.04.26-16.19.23:392][479]PIE: Play in editor total start time 0.257 seconds.
+[2025.04.26-16.20.10:031][870]Set new viewmode: Wireframe
+[2025.04.26-16.20.10:204][872]LogD3D12RHI: Creating RTPSO with 21 shaders (13 cached, 8 new) took 107.37 ms. Compile time 100.45 ms, link time 6.84 ms.
+[2025.04.26-16.20.10:273][872]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.04.26-16.20.10:384][872]LogD3D12RHI: Creating RTPSO with 24 shaders (0 cached, 24 new) took 297.09 ms. Compile time 279.82 ms, link time 17.22 ms.
+[2025.04.26-16.20.11:305][900]Set new viewmode: Wireframe
+[2025.04.26-16.20.16:076][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.26-16.20.16:076][999]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.04.26-16.20.16:076][999]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.26-16.20.16:078][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.26-16.20.16:079][999]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.04.26-16.20.16:181][999]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.26-16.20.16:187][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.26-16.20.16:242][999]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.26-16.20.16:242][999]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.04.26-16.20.16:242][999]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.04.26-16.20.16:245][999]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.04.26-16.20.16:257][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.26-16.20.16:261][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.04.26-16.20.16:394][  0]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.04.26-16.20.18:310][ 27]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.26-16.20.18:319][ 27]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.26-16.20.18:319][ 27]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.04.26-16.20.18:323][ 27]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3.871 ms (total: 12.277 ms)
+[2025.04.26-16.20.18:324][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.26-16.20.18:324][ 27]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.04.26-16.20.18:329][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006050s)
+[2025.04.26-16.20.18:329][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006105s)
+[2025.04.26-16.20.18:351][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.04.26-16.20.18:352][ 27]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.04.26-16.20.18:355][ 27]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.26-16.20.18:355][ 27]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.26-16.20.18:355][ 27]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.26-16.20.18:355][ 27]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.26-16.20.18:357][ 27]LogWorldPartition: Display: WorldPartition initialize took 2.194 ms (total: 204.566 ms)
+[2025.04.26-16.20.18:357][ 27]LogPlayLevel: PIE: World Init took: (0.004210s)
+[2025.04.26-16.20.18:358][ 27]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.04.26-16.20.18:359][ 27]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.26-16.20.18:359][ 27]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.26-16.20.18:359][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.26-16.20.18:359][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.26-16.20.18:359][ 27]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.26-16.20.18:359][ 27]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.26-16.20.18:359][ 27]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.26-16.20.18:359][ 27]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.26-16.20.18:359][ 27]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.26-16.20.18:359][ 27]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.26-16.20.18:359][ 27]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.26-16.20.18:362][ 27]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.26-16.20.18:443][ 27]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.04.26-16.20.18:443][ 27]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.26-16.20.18:443][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.26-16.20.18:443][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.26-16.20.18:444][ 27]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.04.26-16.20.18:444][ 27]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.04.26-16.20.18:447][ 27]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.04.26-16.20.18:447][ 27]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.04.26-16.20.18:448][ 27]LogInit: FAudioDevice initialized with ID 3.
+[2025.04.26-16.20.18:448][ 27]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2025.04.26-16.20.18:448][ 27]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.04.26-16.20.18:511][ 27]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.04.26-16.20.18:517][ 27]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.04.26-12.20.18
+[2025.04.26-16.20.18:517][ 27]LogWorld: Bringing up level for play took: 0.005273
+[2025.04.26-16.20.18:524][ 27]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.04.26-16.20.18:531][ 27]PIE: Server logged in
+[2025.04.26-16.20.18:532][ 27]PIE: Play in editor total start time 0.213 seconds.
+[2025.04.26-16.20.21:456][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.26-16.20.21:456][ 99]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.04.26-16.20.21:456][ 99]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.26-16.20.21:457][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.26-16.20.21:457][ 99]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.04.26-16.20.21:509][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.26-16.20.21:512][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.26-16.20.21:558][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.26-16.20.21:560][ 99]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.04.26-16.20.21:560][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.26-16.20.21:562][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.26-16.20.21:576][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.04.26-16.20.21:671][100]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.04.26-16.20.34:939][355]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.04.26-16.20.35:061][356]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.04.26-16.20.35:125][357]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.04.26-16.20.35:888][365]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap
+[2025.04.26-16.20.35:893][365]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.04.26-16.20.36:284][365]LogStreaming: Display: FlushAsyncLoading(468): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.26-16.20.43:159][472]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2382.875244
+[2025.04.26-16.20.43:360][475]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.26-16.20.43:360][476]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2383.009766, Update Interval: 353.028961
+[2025.04.26-16.20.48:222][547]LogShaderCompilers: Display: ================================================
+[2025.04.26-16.20.48:222][547]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.26-16.20.48:222][547]LogShaderCompilers: Display: Total job queries 394, among them cache hits 117 (29.70%), DDC hits 168 (42.64%), Duplicates 11 (2.79%)
+[2025.04.26-16.20.48:222][547]LogShaderCompilers: Display: Tracking 266 distinct input hashes that result in 226 distinct outputs (84.96%)
+[2025.04.26-16.20.48:222][547]LogShaderCompilers: Display: RAM used: 152.84 KiB of 1.50 GiB budget. Usage: 0.01%
+[2025.04.26-16.20.48:222][547]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.26-16.20.48:222][547]LogShaderCompilers: Display: Shaders Compiled: 98
+[2025.04.26-16.20.48:222][547]LogShaderCompilers: Display: Jobs assigned 98, completed 98 (100%)
+[2025.04.26-16.20.48:222][547]LogShaderCompilers: Display: Average time worker was idle: 150.93 s
+[2025.04.26-16.20.48:222][547]LogShaderCompilers: Display: Time job spent in pending queue: average 0.18 s, longest 4.25 s
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display: Job execution time: average 4.74 s, max 9.09 s
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display: Job life time (pending + execution): average 4.91 s, max 9.17
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display: Shader code size: average 10.544 KiB, min 2.297 KiB, max 22.977 KiB
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 60.58 s
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display: Jobs were issued in 98 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display: Average processing rate: 1.62 jobs/sec
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display: Total thread time: 272.006 s
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display: Total thread preprocess time: 26.633 s
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display: Percentage time preprocessing: 9.79%
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display: Effective parallelization: 4.49 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    5 times, average 5.78 sec, max 6.34 sec, min 5.36 sec)
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    4 times, average 5.54 sec, max 5.70 sec, min 5.38 sec)
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    5 times, average 4.87 sec, max 5.59 sec, min 4.57 sec)
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    5 times, average 4.17 sec, max 5.30 sec, min 3.76 sec)
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   10 times, average 4.07 sec, max 5.77 sec, min 2.49 sec)
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 14.95% of total time (compiled   10 times, average 4.07 sec, max 5.77 sec, min 2.49 sec)
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 11.63% of total time (compiled    8 times, average 3.95 sec, max 4.62 sec, min 3.16 sec)
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 10.63% of total time (compiled    5 times, average 5.78 sec, max 6.34 sec, min 5.36 sec)
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.44% of total time (compiled   13 times, average 2.19 sec, max 3.44 sec, min 0.55 sec)
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display:                                                 FLumenCardCS - 8.94% of total time (compiled    5 times, average 4.87 sec, max 5.59 sec, min 4.57 sec)
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display: === Material stats ===
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display: Materials Translated:    164
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display: Material Total Translate Time: 0.21 s
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display: Material Translation Only: 0.10 s (46%)
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display: Material Cache Hits: 11 (7%)
+[2025.04.26-16.20.48:223][547]LogShaderCompilers: Display: ================================================
+[2025.04.26-16.20.49:348][560]LogSlate: Window 'FirstPersonMap' being destroyed
+[2025.04.26-16.20.49:549][560]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.04.26-16.20.49:549][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.26-16.20.49:634][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.04.26-16.22.03:388][315]Cmd: TRANSACTION UNDO
+[2025.04.26-16.22.03:388][315]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.26-16.22.04:129][322]Cmd: TRANSACTION UNDO
+[2025.04.26-16.22.04:131][322]LogEditorTransaction: Undo Set Scale
+[2025.04.26-16.22.05:076][336]Cmd: TRANSACTION UNDO
+[2025.04.26-16.22.05:077][336]LogEditorTransaction: Undo Reset Scale
+[2025.04.26-16.22.05:544][343]Cmd: TRANSACTION UNDO
+[2025.04.26-16.22.05:544][343]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.26-16.22.42:002][310]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.26-16.22.42:412][310]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB
+[2025.04.26-16.22.42:413][310]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/1ZJ54FMA0DAL3I2Q8RFAIB32C4E5BD4AD4EE31A5EADCB3EFC7EF06.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset'
+[2025.04.26-16.22.42:420][310]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/BD/6C9BW4Z6VI8JDS0W5XIGMB
+[2025.04.26-16.22.42:420][310]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/6C9BW4Z6VI8JDS0W5XIGMB4F3F21684A1321A1C53C6FAEE8BE579C.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/BD/6C9BW4Z6VI8JDS0W5XIGMB.uasset'
+[2025.04.26-16.22.42:538][310]LogFileHelpers: InternalPromptForCheckoutAndSave took 535.478 ms
+[2025.04.26-16.22.42:726][310]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.26-16.22.42:726][310]LogContentValidation: Enabled validators:
+[2025.04.26-16.22.42:726][310]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.26-16.22.42:726][310]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.26-16.22.42:726][310]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.26-16.22.42:726][310]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.26-16.22.42:726][310]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.26-16.22.42:726][310]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.26-16.22.42:728][310]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.04.26-16.22.55:468][503]LogSlate: Window 'Revision Control Login' being destroyed
+[2025.04.26-16.22.56:602][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.04.26-16.22.58:701][529]LogSlate: Window 'Save Content' being destroyed
+[2025.04.26-16.22.58:829][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.26-16.22.59:031][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FPWeapon/Materials/BaseMaterial] ([1] browsable assets)...
+[2025.04.26-16.22.59:031][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPWeapon/Materials/BaseMaterial]
+[2025.04.26-16.22.59:034][529]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/BaseMaterial
+[2025.04.26-16.22.59:034][529]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/BaseMaterialB4CAC10948CBA1C1CA9775AE36182EA1.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/FPWeapon/Materials/BaseMaterial.uasset'
+[2025.04.26-16.22.59:037][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/M_PrototypeGrid] ([1] browsable assets)...
+[2025.04.26-16.22.59:037][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/M_PrototypeGrid]
+[2025.04.26-16.22.59:042][529]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid
+[2025.04.26-16.22.59:042][529]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/M_PrototypeGrid54745F3045E0ABE2201E2AA4DBC2F90D.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset'
+[2025.04.26-16.22.59:045][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor] ([1] browsable assets)...
+[2025.04.26-16.22.59:045][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor]
+[2025.04.26-16.22.59:077][529]LogSavePackage: Moving output files for package: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor
+[2025.04.26-16.22.59:077][529]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_base_main_bod4339F633418484E126729BB316758704.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor.uasset'
+[2025.04.26-16.22.59:079][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor_Mat] ([1] browsable assets)...
+[2025.04.26-16.22.59:079][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor_Mat]
+[2025.04.26-16.22.59:082][529]LogSavePackage: Moving output files for package: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor_Mat
+[2025.04.26-16.22.59:082][529]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_base_main_bod7A75F2D9433A75098C9F5BBF5241CDE0.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor_Mat.uasset'
+[2025.04.26-16.22.59:085][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Height] ([1] browsable assets)...
+[2025.04.26-16.22.59:085][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Height]
+[2025.04.26-16.22.59:095][529]LogSavePackage: Moving output files for package: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Height
+[2025.04.26-16.22.59:095][529]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_base_main_bodB1B8EDE242D0CB1E1ABB45AE85065A01.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Height.uasset'
+[2025.04.26-16.22.59:097][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Height_Mat] ([1] browsable assets)...
+[2025.04.26-16.22.59:097][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Height_Mat]
+[2025.04.26-16.22.59:098][529]LogSavePackage: Moving output files for package: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Height_Mat
+[2025.04.26-16.22.59:098][529]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_base_main_bod30A5B8034A54C5831293BC949B0FE95E.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Height_Mat.uasset'
+[2025.04.26-16.22.59:100][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Metallic] ([1] browsable assets)...
+[2025.04.26-16.22.59:100][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Metallic]
+[2025.04.26-16.22.59:112][529]LogSavePackage: Moving output files for package: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Metallic
+[2025.04.26-16.22.59:112][529]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_base_main_bodBE38B47D41CF69CFFC7C989220215F99.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Metallic.uasset'
+[2025.04.26-16.22.59:114][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Metallic_Mat] ([1] browsable assets)...
+[2025.04.26-16.22.59:114][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Metallic_Mat]
+[2025.04.26-16.22.59:116][529]LogSavePackage: Moving output files for package: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Metallic_Mat
+[2025.04.26-16.22.59:116][529]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_base_main_bod4162B14E461EA98E93B49BB68535F8AF.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Metallic_Mat.uasset'
+[2025.04.26-16.22.59:118][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Normal] ([1] browsable assets)...
+[2025.04.26-16.22.59:118][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Normal]
+[2025.04.26-16.22.59:181][529]LogSavePackage: Moving output files for package: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Normal
+[2025.04.26-16.22.59:181][529]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_base_main_bodAB30FDDD4E17CD862133968C4A21EAB2.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Normal.uasset'
+[2025.04.26-16.22.59:184][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Normal_Mat] ([1] browsable assets)...
+[2025.04.26-16.22.59:184][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Normal_Mat]
+[2025.04.26-16.22.59:185][529]LogSavePackage: Moving output files for package: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Normal_Mat
+[2025.04.26-16.22.59:185][529]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_base_main_bodAD07AB94423895D20ED1428CF3CE7921.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Normal_Mat.uasset'
+[2025.04.26-16.22.59:188][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Roughness] ([1] browsable assets)...
+[2025.04.26-16.22.59:188][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Roughness]
+[2025.04.26-16.22.59:196][529]LogSavePackage: Moving output files for package: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Roughness
+[2025.04.26-16.22.59:196][529]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_base_main_bod0E26F93545795C2D4696F1A30400F3D4.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Roughness.uasset'
+[2025.04.26-16.22.59:201][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Roughness_Mat] ([1] browsable assets)...
+[2025.04.26-16.22.59:201][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Roughness_Mat]
+[2025.04.26-16.22.59:202][529]LogSavePackage: Moving output files for package: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Roughness_Mat
+[2025.04.26-16.22.59:202][529]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_base_main_bod31A9DC354988FA7F50DACEAC16B7F995.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Roughness_Mat.uasset'
+[2025.04.26-16.22.59:204][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_BaseColor] ([1] browsable assets)...
+[2025.04.26-16.22.59:204][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_BaseColor]
+[2025.04.26-16.22.59:265][529]LogSavePackage: Moving output files for package: /Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_BaseColor
+[2025.04.26-16.22.59:265][529]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_foil_foil_covE54F8CB046BAC8FE09311BA135C39181.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_BaseColor.uasset'
+[2025.04.26-16.22.59:267][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Height] ([1] browsable assets)...
+[2025.04.26-16.22.59:267][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Height]
+[2025.04.26-16.22.59:288][529]LogSavePackage: Moving output files for package: /Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Height
+[2025.04.26-16.22.59:288][529]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_foil_foil_cov66DC82EE4DF5DA7D89F664A68253BE9F.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Height.uasset'
+[2025.04.26-16.22.59:291][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Metallic] ([1] browsable assets)...
+[2025.04.26-16.22.59:291][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Metallic]
+[2025.04.26-16.22.59:299][529]LogSavePackage: Moving output files for package: /Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Metallic
+[2025.04.26-16.22.59:299][529]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_foil_foil_cov70613A6A4585F9EC4FF28FB5D793D20A.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Metallic.uasset'
+[2025.04.26-16.22.59:301][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Normal] ([1] browsable assets)...
+[2025.04.26-16.22.59:301][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Normal]
+[2025.04.26-16.22.59:359][529]LogSavePackage: Moving output files for package: /Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Normal
+[2025.04.26-16.22.59:359][529]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_foil_foil_cov22BC96C14AE3338227B5E4B1B0B9B44B.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Normal.uasset'
+[2025.04.26-16.22.59:361][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Roughness] ([1] browsable assets)...
+[2025.04.26-16.22.59:361][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Roughness]
+[2025.04.26-16.22.59:374][529]LogSavePackage: Moving output files for package: /Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Roughness
+[2025.04.26-16.22.59:374][529]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/Mars_Space_Station_foil_foil_cov3B582955460C56138680A89FBE0E4419.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Roughness.uasset'
+[2025.04.26-16.22.59:377][529]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/uploads_files_2859313_Mars+Space+Station] ([1] browsable assets)...
+[2025.04.26-16.22.59:490][529]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/uploads_files_2859313_Mars+Space+Station.uploads_files_2859313_Mars+Space+Station]
+[2025.04.26-16.22.59:490][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/uploads_files_2859313_Mars+Space+Station]
+[2025.04.26-16.22.59:552][529]LogSavePackage: Moving output files for package: /Game/Models/uploads_files_2859313_Mars+Space+Station
+[2025.04.26-16.22.59:552][529]LogSavePackage: Moving '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Saved/uploads_files_2859313_Mars+Space55D0B2DA43ED37D6CFF87AADF96EDE16.tmp' to '../../../../../../Users/Dante/Desktop/Dev/Horizons HackJam/BADSET-HackJam/BAD_Set_map/Content/Models/uploads_files_2859313_Mars+Space+Station.uasset'
+[2025.04.26-16.22.59:644][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 815.129 ms (total: 1.35 sec)
+[2025.04.26-16.22.59:924][529]LogContentValidation: Display: Starting to validate 18 assets
+[2025.04.26-16.22.59:924][529]LogContentValidation: Enabled validators:
+[2025.04.26-16.22.59:924][529]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.26-16.22.59:924][529]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.26-16.22.59:924][529]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.26-16.22.59:924][529]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.26-16.22.59:924][529]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.26-16.22.59:924][529]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.26-16.22.59:924][529]AssetCheck: /Game/FPWeapon/Materials/BaseMaterial Validating asset
+[2025.04.26-16.22.59:924][529]AssetCheck: /Game/LevelPrototyping/Materials/M_PrototypeGrid Validating asset
+[2025.04.26-16.22.59:924][529]AssetCheck: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor Validating asset
+[2025.04.26-16.22.59:924][529]AssetCheck: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_BaseColor_Mat Validating asset
+[2025.04.26-16.22.59:924][529]AssetCheck: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Height Validating asset
+[2025.04.26-16.22.59:924][529]AssetCheck: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Height_Mat Validating asset
+[2025.04.26-16.22.59:924][529]AssetCheck: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Metallic Validating asset
+[2025.04.26-16.22.59:924][529]AssetCheck: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Metallic_Mat Validating asset
+[2025.04.26-16.22.59:924][529]AssetCheck: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Normal Validating asset
+[2025.04.26-16.22.59:924][529]AssetCheck: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Normal_Mat Validating asset
+[2025.04.26-16.22.59:926][529]AssetCheck: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Roughness Validating asset
+[2025.04.26-16.22.59:926][529]AssetCheck: /Game/Models/TEXTURES/Base/Mars_Space_Station_base_main_body_Roughness_Mat Validating asset
+[2025.04.26-16.22.59:926][529]AssetCheck: /Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_BaseColor Validating asset
+[2025.04.26-16.22.59:926][529]AssetCheck: /Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Height Validating asset
+[2025.04.26-16.22.59:926][529]AssetCheck: /Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Metallic Validating asset
+[2025.04.26-16.22.59:926][529]AssetCheck: /Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Normal Validating asset
+[2025.04.26-16.22.59:926][529]AssetCheck: /Game/Models/TEXTURES/Foil/Mars_Space_Station_foil_foil_covered_cylinder_Roughness Validating asset
+[2025.04.26-16.22.59:926][529]AssetCheck: /Game/Models/uploads_files_2859313_Mars+Space+Station Validating asset
